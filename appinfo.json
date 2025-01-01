@@ -1,0 +1,23 @@
+{
+  "id": "com.webos.app.tvuserguide",
+  "version": "1.0.1",
+  "vendor": "LG Electronics, Inc.",
+  "type": "web",
+  "main": "index.html",
+  "title": "User Guide",
+  "uiRevision": "2",
+  "sysAssetsBasePath":"myAssets",
+  "icon": "$icon_userguide.png",
+  "largeIcon": "$icon_userguide.png",
+  "imageForRecents": "myAssets/userguide.png",
+  "bgColor" : "#ffffff",
+  "iconColor": "#ff8a00",
+  "trustLevel" : "trusted",
+  "disableBackHistoryAPI" : true,
+  "lockable" : false,
+  "voiceControl":"manual",
+  "visible":false,
+  "accessibility" : { "supportsAudioGuidance" : true }
+}
+
+
